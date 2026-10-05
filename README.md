@@ -1,4 +1,4 @@
-::: mermaid
+``` mermaid
 
 flowchart TD
     mulai(mulai)
@@ -14,4 +14,4 @@ flowchart TD
     
     e --> a
 
-:::
+```
